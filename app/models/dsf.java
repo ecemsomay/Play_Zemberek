@@ -9,12 +9,12 @@ import java.util.*;
 @Entity
 public class dsf extends Model {
     String kok;
-    
+
     public dsf(String val){
-        this.kok=val;        
-        
+        this.kok=val;
+
     }
-    
-    
-    
+
+
+
 }
