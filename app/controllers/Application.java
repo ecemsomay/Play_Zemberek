@@ -135,7 +135,7 @@ public class Application extends Controller {
             denetle[a] = l;
             a++;
         }
-        
+
         render("Application/kelimeDenetle.html", denetle);
     }
 
